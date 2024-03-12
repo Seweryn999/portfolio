@@ -145,3 +145,17 @@ a:hover {
 .hamburger-icon span:first-child {
   transform: none;
 }
+
+/* SECTIONS */
+
+section {
+  padding-top: 4vh;
+  height: 96vh;
+  margin: 0 10rem;
+  box-sizing: border-box;
+  min-height: fit-content;
+}
+
+.section-container {
+  display: flex;
+}
