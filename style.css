@@ -351,3 +351,9 @@ article {
 article .icon {
   cursor: default;
 }
+
+.tailwind {
+  justify-content: left;
+}
+
+/* PROJECTS SECTION*/
