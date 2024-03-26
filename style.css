@@ -119,7 +119,7 @@ a:hover {
 }
 
 .menu-links.open {
-  max-height: 300px;
+  max-height: 340px;
 }
 
 .hamburger-icon.open span:first-child {
@@ -358,7 +358,15 @@ article .icon {
 
 /* PROJECTS SECTION*/
 
-#projects {
+#projects-html {
+  position: relative;
+}
+
+#projects-js {
+  position: relative;
+}
+
+#projects-react {
   position: relative;
 }
 
