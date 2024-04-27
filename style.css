@@ -302,6 +302,11 @@ section {
   text-align: center;
 }
 
+.react-container {
+  max-width: 40%;
+  margin-left: 27%;
+}
+
 .section-container {
   gap: 4rem;
   height: 80%;

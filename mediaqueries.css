@@ -96,4 +96,9 @@
   .text-container {
     text-align: justify;
   }
+
+  .react-container {
+    max-width: 70%;
+    margin-left: 9%;
+  }
 }
