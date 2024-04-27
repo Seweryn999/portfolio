@@ -41,7 +41,8 @@
   .about-containers {
     margin-top: 0;
   }
-}
+
+ 
 
 @media screen and (max-width: 600px) {
   #contact,
@@ -99,6 +100,14 @@
 
   .react-container {
     max-width: 70%;
-    margin-left: 9%;
+    margin-left: 5%;
+  }
+
+  .html-containers {
+    margin-left: 16%;
+  }
+
+  .first-html-container {
+    padding: 5.26rem;
   }
 }

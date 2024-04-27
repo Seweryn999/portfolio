@@ -293,13 +293,20 @@ section {
 }
 
 .details-containers {
-  padding: 1.5rem;
+  padding: 3rem;
   flex: 1;
   background: white;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
+}
+
+.html-containers {
+  max-width: 60%;
+  margin-left: 19%;
+}
+.first-html-container {
 }
 
 .react-container {
