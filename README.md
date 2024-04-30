@@ -1,1 +1,1 @@
-https://seweryn999.github.io/seweryn-portfolio-html-css-js/
+https://seweryn999.github.io/portfolio/
