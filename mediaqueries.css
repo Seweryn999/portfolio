@@ -62,7 +62,9 @@
   .about-containers,
   .contact-info-upper-container,
   .btn-container {
-    flex-wrap: wrap;
+    width: 100%;
+    max-width: 100%;
+    margin-left: auto;
   }
   .contact-info-container {
     margin: 0;
@@ -100,10 +102,6 @@
   .react-container {
     max-width: 70%;
     margin-left: 5%;
-  }
-
-  .html-containers {
-    margin-left: 16%;
   }
 
   .first-html-container {
