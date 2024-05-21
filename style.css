@@ -367,6 +367,16 @@ article .icon {
   position: relative;
 }
 
+.html-container {
+  max-height: 600px;
+}
+
+.html-container-1 {
+  margin: auto;
+  max-width: 85%;
+  max-height: 85%;
+}
+
 #projects-js {
   position: relative;
 }
