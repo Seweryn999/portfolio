@@ -274,7 +274,7 @@ section {
 
 .about-details-container {
   justify-content: center;
-  flex-direction: column;
+  /* flex-direction: column; */
 }
 
 .about-containers,
@@ -363,18 +363,24 @@ article .icon {
 
 /* PROJECTS SECTION*/
 
+.experience-details-container {
+  display: flex;
+  justify-content: center; /* Wyrównanie w poziomie */
+  align-items: center; /* Wyrównanie w pionie */
+  /* min-height: 100vh; Ustawienie minimalnej wysokości kontenera na 100% widocznej wysokości */
+}
+
 #projects-html {
   position: relative;
 }
 
 .html-container {
   max-height: 600px;
+  max-width: 550px;
 }
 
-.html-container-1 {
-  margin: auto;
-  max-width: 85%;
-  max-height: 85%;
+.con-1 {
+  text-align: center;
 }
 
 #projects-js {
